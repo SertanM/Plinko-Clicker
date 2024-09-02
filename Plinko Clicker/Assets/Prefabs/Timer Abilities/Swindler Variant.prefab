@@ -1,0 +1,213 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &3157199366449702953
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 2554125182758840913, guid: 1b134bebe3124bf4892d1f290fe2a62c, type: 3}
+      propertyPath: m_text
+      value: Swindler
+      objectReference: {fileID: 0}
+    - target: {fileID: 2828687783643662760, guid: 1b134bebe3124bf4892d1f290fe2a62c, type: 3}
+      propertyPath: m_Pivot.x
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 2828687783643662760, guid: 1b134bebe3124bf4892d1f290fe2a62c, type: 3}
+      propertyPath: m_Pivot.y
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 2828687783643662760, guid: 1b134bebe3124bf4892d1f290fe2a62c, type: 3}
+      propertyPath: m_AnchorMax.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2828687783643662760, guid: 1b134bebe3124bf4892d1f290fe2a62c, type: 3}
+      propertyPath: m_AnchorMax.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2828687783643662760, guid: 1b134bebe3124bf4892d1f290fe2a62c, type: 3}
+      propertyPath: m_AnchorMin.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2828687783643662760, guid: 1b134bebe3124bf4892d1f290fe2a62c, type: 3}
+      propertyPath: m_AnchorMin.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2828687783643662760, guid: 1b134bebe3124bf4892d1f290fe2a62c, type: 3}
+      propertyPath: m_SizeDelta.x
+      value: 100
+      objectReference: {fileID: 0}
+    - target: {fileID: 2828687783643662760, guid: 1b134bebe3124bf4892d1f290fe2a62c, type: 3}
+      propertyPath: m_SizeDelta.y
+      value: 100
+      objectReference: {fileID: 0}
+    - target: {fileID: 2828687783643662760, guid: 1b134bebe3124bf4892d1f290fe2a62c, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2828687783643662760, guid: 1b134bebe3124bf4892d1f290fe2a62c, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2828687783643662760, guid: 1b134bebe3124bf4892d1f290fe2a62c, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2828687783643662760, guid: 1b134bebe3124bf4892d1f290fe2a62c, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 2828687783643662760, guid: 1b134bebe3124bf4892d1f290fe2a62c, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2828687783643662760, guid: 1b134bebe3124bf4892d1f290fe2a62c, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2828687783643662760, guid: 1b134bebe3124bf4892d1f290fe2a62c, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2828687783643662760, guid: 1b134bebe3124bf4892d1f290fe2a62c, type: 3}
+      propertyPath: m_AnchoredPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2828687783643662760, guid: 1b134bebe3124bf4892d1f290fe2a62c, type: 3}
+      propertyPath: m_AnchoredPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2828687783643662760, guid: 1b134bebe3124bf4892d1f290fe2a62c, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2828687783643662760, guid: 1b134bebe3124bf4892d1f290fe2a62c, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2828687783643662760, guid: 1b134bebe3124bf4892d1f290fe2a62c, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3395151505824507374, guid: 1b134bebe3124bf4892d1f290fe2a62c, type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Target
+      value: 
+      objectReference: {fileID: 2422835888247399067}
+    - target: {fileID: 3395151505824507374, guid: 1b134bebe3124bf4892d1f290fe2a62c, type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_MethodName
+      value: Buy
+      objectReference: {fileID: 0}
+    - target: {fileID: 5060424950661444368, guid: 1b134bebe3124bf4892d1f290fe2a62c, type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: 1514304250584819321, guid: d26e293e94bd7f64d8d7158230e8beea, type: 3}
+    - target: {fileID: 8016883226644267877, guid: 1b134bebe3124bf4892d1f290fe2a62c, type: 3}
+      propertyPath: m_Name
+      value: Swindler Variant
+      objectReference: {fileID: 0}
+    - target: {fileID: 8709358944194000795, guid: 1b134bebe3124bf4892d1f290fe2a62c, type: 3}
+      propertyPath: m_text
+      value: Swindler, provides $1000 every 25 seconds
+      objectReference: {fileID: 0}
+    m_RemovedComponents:
+    - {fileID: 4889374582568463070, guid: 1b134bebe3124bf4892d1f290fe2a62c, type: 3}
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents:
+    - targetCorrespondingSourceObject: {fileID: 8016883226644267877, guid: 1b134bebe3124bf4892d1f290fe2a62c, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 2422835888247399067}
+  m_SourcePrefab: {fileID: 100100000, guid: 1b134bebe3124bf4892d1f290fe2a62c, type: 3}
+--- !u!114 &346390515888934343 stripped
+MonoBehaviour:
+  m_CorrespondingSourceObject: {fileID: 3395151505824507374, guid: 1b134bebe3124bf4892d1f290fe2a62c, type: 3}
+  m_PrefabInstance: {fileID: 3157199366449702953}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4e29b1a8efbd4b44bb3f3716e73f07ff, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+--- !u!224 &2524092267297518756 stripped
+RectTransform:
+  m_CorrespondingSourceObject: {fileID: 637189612552756365, guid: 1b134bebe3124bf4892d1f290fe2a62c, type: 3}
+  m_PrefabInstance: {fileID: 3157199366449702953}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &3237907078802271929 stripped
+MonoBehaviour:
+  m_CorrespondingSourceObject: {fileID: 522412392578664080, guid: 1b134bebe3124bf4892d1f290fe2a62c, type: 3}
+  m_PrefabInstance: {fileID: 3157199366449702953}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fe87c0e1cc204ed48ad3b37840f39efc, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+--- !u!114 &4623365578523822599 stripped
+MonoBehaviour:
+  m_CorrespondingSourceObject: {fileID: 7780494368929800750, guid: 1b134bebe3124bf4892d1f290fe2a62c, type: 3}
+  m_PrefabInstance: {fileID: 3157199366449702953}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f4688fdb7df04437aeb418b961361dc5, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+--- !u!1 &4940748723349744460 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 8016883226644267877, guid: 1b134bebe3124bf4892d1f290fe2a62c, type: 3}
+  m_PrefabInstance: {fileID: 3157199366449702953}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &2422835888247399067
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4940748723349744460}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 31c1e0d6ea9933d4dbef8ec7670532b3, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  id: 0
+  cost: 5000
+  costMultiplier: 1.2
+  costText: {fileID: 6855748612503998715}
+  levelText: {fileID: 4623365578523822599}
+  buyButton: {fileID: 346390515888934343}
+  bar: {fileID: 3237907078802271929}
+  timeDivider: 12
+  maxTime: 25
+  workersName: Swindler
+  money: 1000
+  textSpawnPos: {fileID: 2524092267297518756}
+  description: {fileID: 5984575580520013746}
+--- !u!114 &5984575580520013746 stripped
+MonoBehaviour:
+  m_CorrespondingSourceObject: {fileID: 8709358944194000795, guid: 1b134bebe3124bf4892d1f290fe2a62c, type: 3}
+  m_PrefabInstance: {fileID: 3157199366449702953}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f4688fdb7df04437aeb418b961361dc5, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+--- !u!114 &6855748612503998715 stripped
+MonoBehaviour:
+  m_CorrespondingSourceObject: {fileID: 8427399365349292242, guid: 1b134bebe3124bf4892d1f290fe2a62c, type: 3}
+  m_PrefabInstance: {fileID: 3157199366449702953}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f4688fdb7df04437aeb418b961361dc5, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
